@@ -1,0 +1,9 @@
+
+loans:
+  messsage: "This is a message from loans microservice dev env"
+  contact:
+    name: "dev env of loans microservice"
+    email: "devenv@loans"
+  contactNumber:
+    - "29239739791"
+    - "83003909200"

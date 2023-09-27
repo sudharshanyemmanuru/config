@@ -1,0 +1,11 @@
+
+build:
+  version: 3.0
+accounts:
+  message: "This is the default profile"
+  contact:
+    name: "This developer name from dev env"
+    email: "devenv@mail.com"
+  contactNumbers:
+    - "892839382"
+    - "828290273"

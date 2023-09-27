@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+loans:
+  messsage: "This is a message from loans microservice qa env"
+  contact:
+    name: "qa env of loans microservice"
+    email: "devenv@loans"
+  contactNumber:
+    - "29239739791"
+    - "83003909200"

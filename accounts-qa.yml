@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: 2.0
+accounts:
+  message: "This is the qa profile"
+  contact:
+    name: "This developer name from qa env"
+    email: "qaenv@mail.com"
+  contactNumbers:
+    - "747838389"
+    - "253637367"

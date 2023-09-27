@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+cards:
+  message: "This is message from the cards microservice qa env"
+  contact:
+    name: "This is qa env of card microservice"
+    email: "cardmicroserviceqa@env"
+  contactNumbers:
+    - "87328387382"
+    - "3736378272"

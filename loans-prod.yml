@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+loans:
+  messsage: "This is a message from loans microservice prod env"
+  contact:
+    name: "prod env of loans microservice"
+    email: "devprod@loans"
+  contactNumber:
+    - "3893902929"
+    - "2929329393"

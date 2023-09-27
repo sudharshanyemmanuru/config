@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: 1.0
+accounts:
+  message: "This is the production profile"
+  contact:
+    name: "This developer name from prod env"
+    email: "prod@mail.com"
+  contactNumbers:
+    - "738328272"
+    - "372828375"

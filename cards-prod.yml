@@ -1,0 +1,12 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+cards:
+  message: "This is message from the cards microservice prod env"
+  contact:
+    name: "This is prod env of card microservice"
+    email: "cardmicroserviceprod@env"
+  contactNumbers:
+    - "4243678262"
+    - "2738383738"
