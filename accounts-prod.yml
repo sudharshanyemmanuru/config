@@ -5,7 +5,7 @@ spring:
 build:
   version: 1.0
 accounts:
-  message: "This is the production profile"
+  message: "This is the prod profile"
   contact:
     name: "This developer name from prod env"
     email: "prod@mail.com"
