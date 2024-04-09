@@ -1,8 +1,8 @@
-book-catalog:
-  message: "Hi Welcome to Book Catalog Service"
+bookCatalog:
+  message: "Hi Welcome to Book Catalog Service In Prod"
   Details:
-    devName: "BAV"
-    email: "Bav@gamil.com"
+    Product Owner: "Murthy"
+    email: "murthy@gamil.com"
   onCallSoupport:
-    - 123445454
-    - 566788889
+    - 09876543
+    - 23454327
