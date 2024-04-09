@@ -1,0 +1,8 @@
+bookCatalog:
+  message: "Hi Welcome to Book Catalog Service In QA"
+  Details:
+    QALead: "Srinivas"
+    email: "srinivas@gamil.com"
+  onCallSoupport:
+    - 98765432
+    - 56787654
