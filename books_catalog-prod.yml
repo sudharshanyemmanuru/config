@@ -1,0 +1,8 @@
+book-catalog:
+  message: "Hi Welcome to Book Catalog Service"
+  Details:
+    devName: "BAV"
+    email: "Bav@gamil.com"
+  onCallSoupport:
+    - 123445454
+    - 566788889
